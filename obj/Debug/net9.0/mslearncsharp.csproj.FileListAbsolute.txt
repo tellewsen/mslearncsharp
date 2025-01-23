@@ -1,0 +1,15 @@
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\bin\Debug\net9.0\mslearncsharp.exe
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\bin\Debug\net9.0\mslearncsharp.deps.json
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\bin\Debug\net9.0\mslearncsharp.runtimeconfig.json
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\bin\Debug\net9.0\mslearncsharp.dll
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\bin\Debug\net9.0\mslearncsharp.pdb
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.AssemblyInfoInputs.cache
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.AssemblyInfo.cs
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.csproj.CoreCompileInputs.cache
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.sourcelink.json
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.dll
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\refint\mslearncsharp.dll
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.pdb
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\mslearncsharp.genruntimeconfig.cache
+C:\Users\AndreasEllewsen\projects\privat\mslearncsharp\obj\Debug\net9.0\ref\mslearncsharp.dll
